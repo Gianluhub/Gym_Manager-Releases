@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <!-- LA VERSIÓN EXACTA que pusiste en Visual Studio -->
-    <version>1.0.0.2</version>
+    <version>1.0.0.3</version>
     
     <!-- EL LINK QUE COPIASTE EN EL PASO 1 (Donde está el .exe) -->
     <url>https://github.com/Gianluhub/Gym_Manager-Releases/releases/download/1.0.0.2/GymManager_Installer_v1.0.exe</url>
@@ -11,4 +11,5 @@
     
     <!-- Si es true, no deja usar la app hasta que actualice. Ponlo false para pruebas -->
     <mandatory>false</mandatory>
+
 </item>
