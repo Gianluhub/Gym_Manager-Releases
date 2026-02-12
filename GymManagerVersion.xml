@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <!-- LA VERSIÓN EXACTA que pusiste en Visual Studio -->
-    <version>1.0.0.1</version>
+    <version>1.0.0.2</version>
     
     <!-- EL LINK QUE COPIASTE EN EL PASO 1 (Donde está el .exe) -->
-    <url>https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0.0.1/GymManager_Installer.exe</url>
+    <url>https://github.com/Gianluhub/Gym_Manager-Releases/releases/download/1.0.0.2/GymManager_Installer_v1.0.exe</url>
     
     <!-- Link para que el usuario vea qué cambió (Pones el link general de releases) -->
-    <changelog>https://github.com/TU_USUARIO/TU_REPO/releases</changelog>
+    <changelog>https://github.com/Gianluhub/Gym_Manager-Releases/releases</changelog>
     
     <!-- Si es true, no deja usar la app hasta que actualice. Ponlo false para pruebas -->
     <mandatory>false</mandatory>
