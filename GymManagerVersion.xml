@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <!-- LA VERSIÓN EXACTA que pusiste en Visual Studio -->
-    <version>1.0.0.4</version>
+    <version>1.1.0.0</version>
     
     <!-- EL LINK QUE COPIASTE EN EL PASO 1 (Donde está el .exe) -->
     <url>https://github.com/Gianluhub/Gym_Manager-Releases/releases/download/1.0.0.2/GymManager_Installer_v1.0.exe</url>
@@ -13,4 +13,5 @@
     <mandatory>false</mandatory>
 
 </item>
+
 
