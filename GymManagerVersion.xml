@@ -4,7 +4,7 @@
     <version>1.1.0.0</version>
     
     <!-- EL LINK QUE COPIASTE EN EL PASO 1 (Donde está el .exe) -->
-    <url>https://github.com/Gianluhub/Gym_Manager-Releases/releases/download/1.0.0.2/GymManager_Installer_v1.0.exe</url>
+    <url>https://github.com/Gianluhub/Gym_Manager-Releases/releases/download/1.1/GymManager_Installer_v1.0.exe</url>
     
     <!-- Link para que el usuario vea qué cambió (Pones el link general de releases) -->
     <changelog>https://github.com/Gianluhub/Gym_Manager-Releases/releases</changelog>
@@ -13,5 +13,6 @@
     <mandatory>false</mandatory>
 
 </item>
+
 
 
